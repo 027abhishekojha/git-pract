@@ -1,2 +1,2 @@
 console.log("THis is new Page");
-console.log("THis is Main Branch Page");
+console.log("THis is Master Branch Page");
